@@ -1,0 +1,8 @@
+main: me.itzsimondk.custommotdplus.CustomMotdPlus
+version: 1.0
+auther: ItzSimonDK
+name: custommotdplus
+description: CustomMotd+
+commands:
+  cmp:
+    description: Checks the version of CustomMotd+

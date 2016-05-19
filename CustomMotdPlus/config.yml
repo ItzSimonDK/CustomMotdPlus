@@ -1,0 +1,24 @@
+# +----------------------------------------------+ #
+# |          CustomMotd+ by ItzSimonDK           | #
+# +----------------------------------------------+ #
+
+# Color Guide: http://wiki.ess3.net/mc/
+# Please note: Do NOT remove the ' else the code won't work
+
+#First line of the ServerMotd
+motd1: '&6&lCustomMOTD+&a&l default MOTD'
+
+#Second line of the ServerMotd
+motd2: '&b&lBy ItzSimonDK'
+
+#Sets a fake maxplayers of the server
+maxplayers: 50
+
+#Custom join message, use {player} as player variable
+joinmessage: '&a+ {player}'
+
+#Custom quit message, use {player} as player variable
+quitmessage: '&c- {player}'
+
+#Sets the prefix of customMotd+
+cmpprefix: '&a[CustomMotd+]'
